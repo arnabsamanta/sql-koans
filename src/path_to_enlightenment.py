@@ -12,7 +12,7 @@ def main():
                'joins.sql',
                'relationships.sql',
                'update_delete.sql',
-               'subqueries.sql',
+               # 'subqueries.sql',
                'aggregates.sql',
                'presentation.sql']
     queries = []
